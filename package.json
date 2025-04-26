@@ -9,6 +9,14 @@
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
+  "author": {
+    "email": "trevor@trevorsullivan.net",
+    "name": "Trevor Sullivan",
+    "url": "https://trevorsullivan.net"
+  },
+  "publisher": "Trevor Sullivan",
+  "readme": "README.md",
   "extensionPack": [
     "arcticicestudio.nord-visual-studio-code",
     "bceskavich.theme-dracula-at-night",
