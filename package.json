@@ -1,0 +1,51 @@
+{
+  "name": "trevor",
+  "displayName": "trevor",
+  "description": "Trevor's favorite VSCode extensions",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "arcticicestudio.nord-visual-studio-code",
+    "bceskavich.theme-dracula-at-night",
+    "coder.coder-remote",
+    "daylerees.rainglow",
+    "eliverlara.andromeda",
+    "enkia.tokyo-night",
+    "formulahendry.code-runner",
+    "golang.go",
+    "icsharpcode.ilspy-vscode",
+    "medo64.render-crlf",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-bicep",
+    "ms-azuretools.vscode-docker",
+    "ms-dotnettools.csharp",
+    "ms-python.python",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.powershell",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-server",
+    "msazurermtools.azurerm-vscode-tools",
+    "redhat.vscode-yaml",
+    "robbowen.synthwave-vscode",
+    "rooveterinaryinc.roo-cline",
+    "rust-lang.rust-analyzer",
+    "samrapdev.outrun",
+    "sourcegraph.cody-ai",
+    "usernamehw.errorlens",
+    "vue.volar",
+    "webrender.synthwave-x-fluoromachine",
+    "whizkydee.material-palenight-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pcgeek86/vscode-trevor"
+  },
+  "license": "MIT"
+}
